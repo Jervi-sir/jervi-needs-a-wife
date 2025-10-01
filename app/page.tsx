@@ -83,8 +83,11 @@ export default function Page() {
             <span className="hidden sm:inline">•</span>
             <span className="hidden sm:inline">House‑husband energy, senior‑dev output</span>
           </div>
+          <h1 className="text-3xl font-bold tracking-tight md:text-2xl">
+            I NEED A WIFE
+          </h1>
 
-          <h1 className="text-3xl font-bold tracking-tight md:text-5xl">
+          <h1 className="font-bold tracking-tight text-lg">
             Hi, It’s Jervi — <span className="text-primary">full‑stack dev</span> &
             <span className="ml-2"> house‑husband on a quest</span>
           </h1>
